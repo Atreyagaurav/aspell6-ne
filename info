@@ -1,0 +1,25 @@
+name_english Nepali
+name_native नेपाली
+lang ne
+repl-table ne
+affix ne
+affix-compress true
+data-file u-deva.cset
+data-file u-deva.cmap
+data-file ne_phonet.dat
+data-file ne_affix.dat
+data-file ne_repl.dat
+author:
+  name Gaurav Atreya
+  name-native गौरव आत्रेय
+  email allmanpride at gmail dot com
+copyright GPLv3
+url
+version 0.01-0
+source-version 0.01
+complete false
+accurate true
+alias ne nepali
+dict:
+  name ne
+  add ne
